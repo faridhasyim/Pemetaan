@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pemetaan</string>
+    <string name="title_activity_dashboard">Dashboard Pemetaan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_tentang">Tentang</string>
+    <string name="menu_bantuan">Bantuan</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_feature_lain">Feature Lain</string>
+    <string name="menu_share">Share</string>
+    <string name="teks_versi_apl">versi 1.0.0</string>
+    <string name="tentang_apl_desainkode">Desain dan Pengkodean</string>
+    <string name="tentang_apl_desainer">Rifky Fuady</string>
+    <string name="tentang_apl_mail">rifky2fuady@gmail.com</string>
+    <string name="bantuan">Aplikasi ini membutuhkan koneksi internet untuk mengambil dan mengolah data dari Google Maps Api. Sehingga pastikan koneksi internet di perangkat smartphone anda aktif.</string>
+    <string name="tentang1">Pemetaan adalah aplikasi yang dibuat untuk menampilkan informasi lokasi sekolah terdekat. Sehingga memudahkan user untuk mengetahui lokasi tanpa batasan waktu.</string>
+    <string name="tentang2">Data yang ada di dalam aplikasi ini bersumberkan dari halaman Google Maps Api, yang beralamatkan di https://maps.googleapis.com .</string>
+    <string name="tomboldialog_tutup">TUTUP</string>
+    <string name="belum_ada_data">Belum ada data yang ditampilkan</string>
+    <string name="tidak_terkoneksi">Tidak Terkoneksi Internet, tidak ada data yang bisa ditampilkan</string>
+</resources>

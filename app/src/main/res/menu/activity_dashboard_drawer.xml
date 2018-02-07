@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_dashboard" />
+        <item
+            android:id="@+id/nav_bantuan"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/menu_bantuan" />
+    </group>
+
+    <item android:title="@string/menu_feature_lain">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+        </menu>
+    </item>
+
+</menu>
